@@ -1,0 +1,101 @@
+Last Refresh: 10/27/2020 15:37:14
+Page View tag (Production)
+Tag Type (tid):"1" (Page View tag)
+Category ID (cg):"687519:PROMO SITES"
+Attribute 1 (pv_a1):"687519"
+Attribute 2 (pv_a2):"687519"
+Attribute 3 (pv_a3):"687PDC"
+Attribute 4 (pv_a4):"EN"
+Client ID (ci):"50810000|687519;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Page ID (pi):"PROMO ORing eHandbook - Contact Us"
+Destination URL (ul):"https://promo.parker.com/promotionsite/oring-ehandbook/us/en/contact-us"
+
+
+Element tag (Production)
+Tag Type (tid):"15" (Element tag)
+Client ID (ci):"50810000|687519;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Element ID (eid):"Demandbase"
+Element Category (ecat):"Company data"
+Page ID (pi):"PROMO ORing eHandbook - Contact Us"
+Attribute 1 (e_a1):"Detailed"
+Attribute 2 (e_a2):"Enterprise Business"
+Attribute 3 (e_a3):"Manufacturing"
+Attribute 4 (e_a4):"false"
+Attribute 6 (e_a6):"INS-AS"
+Attribute 9 (e_a9):"US"
+Attribute 11 (e_a11):"37.75"
+Attribute 12 (e_a12):"-97.82"
+Attribute 14 (e_a14):"Parker Hannifin Corporation"
+Attribute 15 (e_a15):"Parker"
+Attribute 17 (e_a17):"true"
+Attribute 18 (e_a18):"true"
+Attribute 19 (e_a19):"Manufacturing"
+Attribute 20 (e_a20):"Metal Products"
+Attribute 21 (e_a21):"Enterprise"
+Attribute 22 (e_a22):"Over $5B"
+Attribute 23 (e_a23):"57170"
+Attribute 24 (e_a24):"14302392000"
+Attribute 25 (e_a25):"216-896-3000"
+Attribute 26 (e_a26):"6035 Parkland Blvd"
+Attribute 27 (e_a27):"Cleveland"
+Attribute 28 (e_a28):"OH"
+Attribute 29 (e_a29):"US"
+Attribute 30 (e_a30):"44124"
+Attribute 31 (e_a31):"parker.com"
+Attribute 32 (e_a32):"PH"
+Attribute 33 (e_a33):"29853"
+Attribute 34 (e_a34):"3499"
+Attribute 35 (e_a35):"41.51"
+Attribute 36 (e_a36):"-81.46"
+Attribute 37 (e_a37):"12.4.27.134"
+Attribute 38 (e_a38):"High"
+Attribute 39 (e_a39):"true"
+Attribute 40 (e_a40):"false"
+Destination URL (ul):"https://promo.parker.com/promotionsite/oring-ehandbook/us/en/contact-us"
+
+
+Registration tag (Production)
+Tag Type (tid):"2" (Registration tag)
+Client ID (ci):"50810000|687519;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Registration ID (cd):"KJ00427892@techmahindra.com"
+Email (em):"KJ00427892@techmahindra.com"
+Destination URL (ul):"https://promo.parker.com/promotionsite/oring-ehandbook/us/en/contact-us"
+
+
+Conversion Event tag (Production)
+Tag Type (tid):"14" (Conversion Event tag)
+Client ID (ci):"50810000|687519;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Conversion Event ID (cid):"687519 - ORing eHandbook"
+Conversion Event Action Type (cat):"2"
+Conversion Category ID (ccid):"Contact Us"
+Conversion Event Points (cpt):"1"
+Page ID (pi):"PROMO ORing eHandbook - Contact Us"
+Destination URL (ul):"https://promo.parker.com/promotionsite/oring-ehandbook/us/en/contact-us"
+
+
+Form Action tag (Production)
+Tag Type (tid):"10" (Form Action tag)
+Client ID (ci):"50810000|687519;50820000|687PDC"
+Library Version (vn1):"4.23.167"
+Character Set (ec):"utf-8"
+Page ID (pi):"PROMO ORing eHandbook - Contact Us"
+Form List (fo):"contactUsForm:0;"
+Form Action Type (ac):"0:S"
+Target HREF/URL (hr):"/promotionsite/oring-ehandbook/us/en/"
+Field Change List (fi):"0:17:PrivacyPolicy;0:18:submitForm;"
+Destination URL (ul):"https://promo.parker.com"
+
+
+Frame contains: https://promo.parker.com/promotionsite/oring-ehandbook/us/en/contact-us
+There are no tags in this frame.
+
+
+Access to this frame is not allowed
